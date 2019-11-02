@@ -1,0 +1,81 @@
+Am citit din fisier CR
+Parse returned 0
+
+Am citit din fisier LF
+Parse returned 0
+
+Am citit din fisier +
+Parse returned 0
+
+Am citit din fisier C
+Parse returned 0
+
+Am citit din fisier S
+Parse returned 0
+
+Am citit din fisier Q
+Parse returned 0
+
+Am citit din fisier :
+Parse returned 0
+
+Am citit din fisier  
+Parse returned 0
+
+Am citit din fisier 2
+Parse returned 0
+
+Am citit din fisier 1
+Parse returned 0
+
+Am citit din fisier CR
+Parse returned 0
+
+Am citit din fisier LF
+Parse returned 0
+
+Am citit din fisier +
+Parse returned 0
+
+Am citit din fisier C
+Parse returned 0
+
+Am citit din fisier S
+Parse returned 0
+
+Am citit din fisier Q
+Parse returned 0
+
+Am citit din fisier :
+Parse returned 0
+
+Am citit din fisier  
+Parse returned 0
+
+Am citit din fisier 2
+Parse returned 0
+
+Am citit din fisier 1
+Parse returned 0
+
+Am citit din fisier CR
+Parse returned 0
+
+Am citit din fisier LF
+Parse returned 0
+
+Am citit din fisier CR
+Parse returned 0
+
+Am citit din fisier LF
+Parse returned 0
+
+Am citit din fisier O
+Parse returned 0
+
+Am citit din fisier K
+Parse returned 0
+
+Am citit din fisier ÿ
+Parse returned -5
+

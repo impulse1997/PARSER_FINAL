@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nituv/CLionProjects/PARSER_FINAL/my_parser.c
+my_parser.h
+C:/Users/nituv/CLionProjects/PARSER_FINAL/my_parser.h
+stdio.h
+-
+
+C:/Users/nituv/CLionProjects/PARSER_FINAL/my_parser.h
+stdbool.h
+-
+stdint.h
+-
+

@@ -1,0 +1,3 @@
+C:/Users/nituv/CLionProjects/PARSER_FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nituv/CLionProjects/PARSER_FINAL/cmake-build-debug/CMakeFiles/PARSER_FINAL.dir
+C:/Users/nituv/CLionProjects/PARSER_FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
